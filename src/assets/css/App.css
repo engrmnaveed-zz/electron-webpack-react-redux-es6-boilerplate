@@ -1,0 +1,15 @@
+h1 {
+  font-family: helvetica;
+  font-weight: 200;
+}
+
+WebView {
+  height: 540px;
+  width: 100%;
+}
+
+.text-input {
+  width: 100%;
+  height: 24px;
+  font-size: 18px;
+}
